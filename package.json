@@ -1,7 +1,7 @@
 {
-  "name": "mongoose_skeleton",
+  "name": "workouttrackerdb",
   "version": "1.0.0",
-  "description": "",
+  "description": "A workout tracker created using a Mongo database with a Mongoose schema and handle routes with Express",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,8 +12,18 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.3",
+    "express": "^4.17.1",
+    "mongod": "^2.0.0",
     "mongoose": "^5.3.16",
     "morgan": "^1.9.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/e-giftz/workout-tracker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/e-giftz/workout-tracker/issues"
+  },
+  "homepage": "https://github.com/e-giftz/workout-tracker#readme"
 }
