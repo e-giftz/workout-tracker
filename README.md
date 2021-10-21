@@ -21,7 +21,7 @@ This application will alow the user view, edit, add, amd delete categoreies, pro
 
 ## Links to application
 * URL of GitHub repository containing the code: https://github.com/e-giftz/workout-tracker
-* URL of deployed app on heroku: https://secret-bastion-26469.herokuapp.com/
+* URL of deployed app on heroku: https://safe-citadel-57154.herokuapp.com/
 
 
 ## Screenshot  Demonstrating  the App's  Functionality
